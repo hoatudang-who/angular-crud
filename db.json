@@ -1,0 +1,131 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "FlightArrival": [
+    {
+      "firstName": "Tony",
+      "lastName": "Chopper",
+      "experience": 5,
+      "package": 12,
+      "email": "chopper@example.com",
+      "dob": "2023-05-31T17:00:00.000Z",
+      "programingLanguage": "PHP",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "firstName": "Vinsmoke",
+      "lastName": "Sanji",
+      "experience": 10,
+      "package": 22,
+      "email": "sanji@example.com",
+      "dob": "1999-12-31T17:00:00.000Z",
+      "programingLanguage": "PHP",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "firstName": "Rononoa",
+      "lastName": "Zoro",
+      "experience": 10,
+      "package": 25,
+      "email": "zoro@example.com",
+      "dob": "1999-01-31T17:00:00.000Z",
+      "programingLanguage": "AngularJS",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "firstName": "Pricess",
+      "lastName": "Nami",
+      "experience": 8,
+      "package": 16,
+      "email": "nami@example.com",
+      "dob": "2002-09-14T17:00:00.000Z",
+      "programingLanguage": "AngularJS",
+      "gender": "female",
+      "id": 4
+    },
+    {
+      "firstName": "Nico",
+      "lastName": "Robin",
+      "experience": 11,
+      "package": 23,
+      "email": "robin@example.com",
+      "dob": "1998-08-19T17:00:00.000Z",
+      "programingLanguage": "PHP",
+      "gender": "others",
+      "id": 5
+    },
+    {
+      "firstName": "Fisher",
+      "lastName": "Jinbe",
+      "experience": 15,
+      "package": 30,
+      "email": "jinbe@example.com",
+      "dob": "1990-05-19T17:00:00.000Z",
+      "programingLanguage": "AngularJS",
+      "gender": "male",
+      "id": 6
+    },
+    {
+      "firstName": "BodyBuilder",
+      "lastName": "Franky",
+      "experience": 9,
+      "package": 27,
+      "email": "franky@example.com",
+      "dob": "1995-11-27T17:00:00.000Z",
+      "programingLanguage": "Python",
+      "gender": "male",
+      "id": 7
+    },
+    {
+      "firstName": "Gosh",
+      "lastName": "Brook",
+      "experience": 99,
+      "package": 69,
+      "email": "brook@example.com",
+      "dob": "1973-10-10T16:00:00.000Z",
+      "programingLanguage": "AngularJS",
+      "gender": "male",
+      "id": 8
+    },
+    {
+      "firstName": "God",
+      "lastName": "Ussop",
+      "experience": 7,
+      "package": 21,
+      "email": "ussop@example.com",
+      "dob": "2000-12-08T17:00:00.000Z",
+      "programingLanguage": "AngularJS",
+      "gender": "male",
+      "id": 9
+    },
+    {
+      "firstName": "Monkey D.",
+      "lastName": "Luffy",
+      "experience": 10,
+      "package": 100,
+      "email": "luffy@example.com",
+      "dob": "2000-09-30T17:00:00.000Z",
+      "programingLanguage": "Python",
+      "gender": "others",
+      "id": 10
+    }
+  ]
+}
