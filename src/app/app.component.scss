@@ -1,0 +1,22 @@
+.main-body {
+  padding-top: 20px;
+  margin: 0 auto;
+  max-width: 1348px;
+  mat-form-field {
+    width: 100%;
+  }
+}
+
+.fly-list-btn {
+  background-color: transparent !important;
+  color: #fff !important;
+  box-shadow: none !important;
+  font-size: 1em;
+  font-weight: 450;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
