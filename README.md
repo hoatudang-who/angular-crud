@@ -1,1 +1,1 @@
-# angular-crud
+# angular-crud example
